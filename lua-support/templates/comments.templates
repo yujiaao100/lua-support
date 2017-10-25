@@ -59,9 +59,12 @@
 --      Returns:  {+RETURNS+}
 ------------------------------------------------------------------------
 
-== Comments.shebang == start, map:cb ==
-#!|LUA_INTERPRETER|<CURSOR>
-== ENDTEMPLATE ==
+§ -------------------------------------------------------------
+§ delete Comments.shebang to slove conflict nerdcommenter
+§ -------------------------------------------------------------
+§== Comments.shebang == start, map:cb ==
+§#!|LUA_INTERPRETER|<CURSOR>
+§== ENDTEMPLATE ==
 
 § -------------------------------------------------------------
 §  Keywords and Macros
